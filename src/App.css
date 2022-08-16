@@ -1,0 +1,34 @@
+.App{
+  height: 800px;
+  width: 500px;
+background-color: rgb(27, 67, 50);
+}
+.card{
+  position: absolute;
+  top: 45vh;
+  left:26vh;
+}
+.content{
+  background-color: rgb(94, 137, 137);
+  font-size: 24px;
+  border-radius: 5px 5px 0px 0px;
+  width: 145px;
+  text-align: center;
+}
+.button{
+  width: 135px;
+  background-color: rgb(141, 134, 124);
+  text-align: center;
+  padding: 5px;
+  border-radius: 0px 0px 5px 5px;
+}
+button{
+  padding: 3px 6px;
+  background-color: rgb(35, 95, 246);
+  color: aliceblue;
+  border-radius: 3px 15px;
+  border-style: none;
+}
+button:hover{
+  cursor: pointer;
+}
